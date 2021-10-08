@@ -155,11 +155,11 @@ python test.py \
             --moco false \
             --together true
 ```
-
+<!-- 
 ## Other Optional Arguments
 
 --
---
+-- -->
 
 ## Notes
 For other CheXpert tasks, in `constants/constants.py` replace `CHEXPERT_SINGLE_TASKS` and `CHEXPERT_COMPETITION_SINGLE_TASKS`, and replace `--custom_tasks` in the above arguments. For example, for "Edema" classification, in `constants/constants.py` set

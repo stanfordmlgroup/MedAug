@@ -193,7 +193,7 @@ If you are using the MedAug, please cite this paper:
       year={2021},
       journal={Machine Learning for Healthcare (MLHC)},
       volume={5},
-      ages={1-14},
+      pages={1-14},
       year={2021}
 }
 ```
